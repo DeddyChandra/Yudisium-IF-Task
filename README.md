@@ -14,7 +14,7 @@ Tugas-tugas Yudisium Informatika
 
 5. [ ] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
 
-6. [ ] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
+6. [X] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
 
 7. [ ] Mengunggah versi digital Skripsi dengan format penamaan file NPM-Nama Lengkap pada tautan sbb: Informatika → https://bit.ly/Skripsi-IF_2021_02
     * Khusus untuk mahasiswa program studi Informatika, versi digital yang harus diunggah tersebut berisi:
