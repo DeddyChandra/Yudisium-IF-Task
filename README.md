@@ -12,7 +12,7 @@ Tugas-tugas Yudisium Informatika
 
 4. [ ] Jika sudah mendapatkan persetujuan di proses Penyisihan, mahasiswa diwajibkan melakukan pendaftaran Yudisium melalui menu PENGAJUAN-YUDISIUM pada Student Portal. Petunjuk pengisian dapat dilihat di STUPOR.
 
-5. [ ] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
+5. [x] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
 
 6. [X] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
 
