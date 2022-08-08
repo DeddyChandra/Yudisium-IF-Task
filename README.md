@@ -27,7 +27,7 @@ Tugas-tugas Yudisium Informatika
 
 10. [ ] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
 
-11. [ ] Portofolio Kegiatan Mahasiswa beserta bukti sertifikat dsb pada website portofolioftis.unpar.ac.id. Pengisian dimulai hari Selasa, 2 Agustus 2022.
+11. [ ] Portofolio Kegiatan Mahasiswa beserta bukti sertifikat dsb pada website https://portofolioftis.unpar.ac.id. Pengisian dimulai hari Selasa, 2 Agustus 2022.
 
 
 # Task Kirim Document
