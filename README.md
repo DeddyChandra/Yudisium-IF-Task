@@ -12,7 +12,7 @@ Tugas-tugas Yudisium Informatika
 
 4. [ ] Jika sudah mendapatkan persetujuan di proses Penyisihan, mahasiswa diwajibkan melakukan pendaftaran Yudisium melalui menu PENGAJUAN-YUDISIUM pada Student Portal. Petunjuk pengisian dapat dilihat di STUPOR.
 
-5. [x] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
+5. [X] Mahasiswa wajib menyelesaikan semua Administrasi Keuangan (akan diverifikasi juga oleh Kasubag Kemahasiswaan).
 
 6. [X] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
 
@@ -21,9 +21,9 @@ Tugas-tugas Yudisium Informatika
       - [ ] Program, jika ada program yang dihasilkan;
       - [ ] Petunjuk Acuan Teknis.
      
-8. [ ] Menggunggah Softcopy KTP, akte kelahiran, Surat Keterangan Bebas Pinjam Buku, pas foto pada poin 5 dengan kualitas 300 dpi → melalui G-Form https://bit.ly/Lampiran-Yudisium77.
+8. [X] Menggunggah Softcopy KTP, akte kelahiran, Surat Keterangan Bebas Pinjam Buku, pas foto pada poin 5 dengan kualitas 300 dpi → melalui G-Form https://bit.ly/Lampiran-Yudisium77.
 
-9. [ ] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
+9. [X] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
 
 10. [ ] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
 
