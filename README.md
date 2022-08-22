@@ -4,7 +4,7 @@ Tugas-tugas Yudisium Informatika
 ![image](https://user-images.githubusercontent.com/57496224/179342019-c9f2268c-31e0-466c-82ea-5541a7b3f2e8.png)
 
 ## Task Online
-1. [ ] Mahasiswa meminta blanko Formulir Kelengkapan Kurikulum (FKK) Program Studi di Prodi masing-masing (dibagikan oleh Koordinator Skripsi).
+1. [X] Mahasiswa meminta blanko Formulir Kelengkapan Kurikulum (FKK) Program Studi di Prodi masing-masing (dibagikan oleh Koordinator Skripsi).
 
 2. [ ] Blanko diisi dengan lengkap, lalu dikirimkan via email ke Kaprodi. Setelah diperiksa kebenaran isinya oleh Kaprodi, mahasiswa diminta menandatangi blanko tersebut, dan blanko dikirimkan kembali ke Kaprodi dan Sekretaris Prodi (henny@unpar.ac.id).
 
@@ -16,7 +16,7 @@ Tugas-tugas Yudisium Informatika
 
 6. [X] Mahasiswa menyiapkan versi cetak dan versi digital: pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih.
 
-7. [ ] Mengunggah versi digital Skripsi dengan format penamaan file NPM-Nama Lengkap pada tautan sbb: Informatika → https://bit.ly/Skripsi-IF_2021_02
+7. [X] Mengunggah versi digital Skripsi dengan format penamaan file NPM-Nama Lengkap pada tautan sbb: Informatika → https://bit.ly/Skripsi-IF_2021_02
     * Khusus untuk mahasiswa program studi Informatika, versi digital yang harus diunggah tersebut berisi:
       - [ ] Program, jika ada program yang dihasilkan;
       - [ ] Petunjuk Acuan Teknis.
@@ -33,7 +33,7 @@ Tugas-tugas Yudisium Informatika
 # Task Kirim Document
 1. [ ] Versi cetak Lampiran Formulir Kelengkapan Kurikulum (FKK) Final Program Studi yang sudah ditandatangan mahasiswa (tidak perlu ditandatangan Kaprodi)
 
-2. [ ] Versi cetak pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih
+2. [X] Versi cetak pas foto hitam putih 4 × 6 (4 lbr) dan 3 x 4 (4 lbr), berwarna 3 x 4 (4 lbr), semuanya berlatar belakang putih
 
 **Alamat :** <br>
 Kepala Tata Usaha Fakultas Teknologi Informasi dan Sains <br>
