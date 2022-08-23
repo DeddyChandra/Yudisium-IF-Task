@@ -6,7 +6,7 @@ Tugas-tugas Yudisium Informatika
 ## Task Online
 1. [X] Mahasiswa meminta blanko Formulir Kelengkapan Kurikulum (FKK) Program Studi di Prodi masing-masing (dibagikan oleh Koordinator Skripsi).
 
-2. [ ] Blanko diisi dengan lengkap, lalu dikirimkan via email ke Kaprodi. Setelah diperiksa kebenaran isinya oleh Kaprodi, mahasiswa diminta menandatangi blanko tersebut, dan blanko dikirimkan kembali ke Kaprodi dan Sekretaris Prodi (henny@unpar.ac.id).
+2. [X] Blanko diisi dengan lengkap, lalu dikirimkan via email ke Kaprodi. Setelah diperiksa kebenaran isinya oleh Kaprodi, mahasiswa diminta menandatangi blanko tersebut, dan blanko dikirimkan kembali ke Kaprodi dan Sekretaris Prodi (henny@unpar.ac.id).
 
 3. [ ] Mahasiswa mengisi PENGAJUAN PENYISIHAN pada Student Portal (STUPOR) sesuai dengan isian di FKK. Petunjuk pengisian dapat dilihat di STUPOR dan setelah selesai, menginformasikannya kepada Sekretaris Prodi untuk diperiksa kembali. Jika sudah benar, akan disetujui di sistem oleh Kaprodi dan blanko tidak perlu ditandatangan oleh Kaprodi.
 
