@@ -23,7 +23,7 @@ Tugas-tugas Yudisium Informatika
      
 8. [X] Menggunggah Softcopy KTP, akte kelahiran, Surat Keterangan Bebas Pinjam Buku, pas foto pada poin 5 dengan kualitas 300 dpi → melalui G-Form https://bit.ly/Lampiran-Yudisium77.
 
-9. [X] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
+9. [ ] Mengisi Data wisuda di file Excel pada tautan: https://s.id/Data-Yudisium-FTIS dan Menu Kelulusan di STUPOR (yang disediakan BAA).
 
 10. [ ] Mengisi Surat Keterangan Pendamping Ijazah (SKPI) pada STUPOR melalui menu KEGIATAN MAHASISWA (sudah bisa mulai diisi mulai dari sekarang).
 
